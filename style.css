@@ -860,7 +860,7 @@ body {
 .gridbox1 {
   padding: 10px;
   width: 30%;
-  height: 100%;
+  height: 115;
   background-color: #f4f6fa;
   text-align: center;
   border-radius: 15px;
@@ -1063,7 +1063,7 @@ body {
 
 .background2 {
   position: absolute;
-  bottom: 10%;
+  bottom: 17%;
   left: 55%;
 }
 .background2 img {
@@ -1105,14 +1105,14 @@ body {
 .email2 p {
   background-color: #29a56c;
   width: 9%;
-  height: 11%;
+  height: 12%;
   border-radius: 25px;
   font-size: larger;
 
   color: white;
   position: absolute;
   top: 60%;
-  left: 30%;
+  left: 27%;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1584,6 +1584,7 @@ body {
     height: 35%;
     width: 90%;
     margin-left: 5%;
+    bottom: 9%;
    
     /* background-color: pink; */
   }
@@ -1744,7 +1745,7 @@ body {
     height: 40%;
   }
   .section {
-    padding: 5px;
+    margin-left: 0;
     width: 91%;
     gap: 10px;
   }
@@ -1781,7 +1782,7 @@ body {
   .sec1 {
     display: block;
     display: flex;
-    gap: 10px;
+    gap: 8px;
   }
   .sec2 {
     display: block;
@@ -1793,12 +1794,16 @@ body {
   }
   .close{
     display: none;
+   
   }
   .fresh{
     width: 100%;
-    height:50% ;
+    height:100% ;
     display: block;
     display: flex;
+    align-items: center;
+    justify-content: center;
+    
   }
   .gridimages{
     width: 90%;
@@ -1833,6 +1838,7 @@ body {
   .online{
     display: flex;
     flex-direction: column;
+    align-items: center;
   }
   .deal{
     width: 100%;
@@ -1850,8 +1856,8 @@ body {
  
   
   .offer{
-    height: 150%;
-    width: 90%;
+    height: 121%;
+    width: 100%;
     margin-left: 0;
     align-items: center;
     justify-content: center;
@@ -1896,11 +1902,11 @@ body {
 }
 
 .offer{
-  height:130%;
+  height:121%;
   display: flex;
   flex-direction: column;
 
-  width: 97%;
+  width: 100%;
   
 }
 .offer1{
@@ -1918,11 +1924,14 @@ body {
 }
 .fresh{
   width: 100%;
-  height: 50%;
+  height: 100%;
    display:flex;
   align-items: center;
   justify-content: center;
   gap: 20px;
+}
+.gridboxes{
+  margin-left: 0;
 }
 .shop{
   width: 40%;
@@ -1954,8 +1963,8 @@ body {
 
 .gridbox3 {
   padding: 10px;
-  width: 40%;
-  height: 170%;
+  width: 50%;
+  height: 100%;
   background-color: #f4f6fa;
   text-align: center;
   border-radius: 15px;
@@ -1981,31 +1990,27 @@ body {
 .trending{
   width: 80%;
 }
-.back1{
-  width: 100%;
-  height: 110%;
-}
+
 .inputtype{
   width: 77%;
 }
 .background2{
-  width: 55%;
-  bottom: 0;
+  width: 60%;
+  bottom: 8%;
 }
 .email1 input{
   top: 74%;
   right: 5%;
 }
-.email2 p{
-  width:32%;
-  top: 75%;
-}
+
 .email i{
   left: 4.5%;
   top: 76%
 }
 .online{
   height: 60%;
+  align-items: center;
+  justify-content: center;
 }
 .greenBorder1{
   width: 79%;
@@ -2017,7 +2022,7 @@ body {
   height: 150%;
   display: grid;
   grid-template-columns: repeat(2,0.5fr);
-  margin-left: 2%;
+  margin-left: 0;
 }
 
 .install1{
@@ -2046,15 +2051,28 @@ body {
 }
 .back1{
   width: 100%;
+  height: 100%;
 }
 .background{
   width: 100%;
+  height: 50%;
+ 
   margin-left: 0;
+  margin-top: 21%;
 }
 .juice{
   margin-top: 39%;
-  width: 93%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  
 }
+.top{
+  margin-left: 5%;
+
+}
+  
 .id1{
   top: 16%;
   left:83%;
@@ -2063,17 +2081,18 @@ body {
   height: 11%;
 }
 .email2 p{
-  top: 74.5%;
+  width: 30%;
+  top: 57%;
   left: 56%;
-  height: 17%;
+  height: 13%;
 }
 .email1 input{
-  
-  left: 19%;
+  top: 57%;
+  left: 10%;
 }
 .email i{
-  top: 77%;
-  left: 14%;
+  top: 59%;
+  left: 5%;
 }
 .carticon{
   width: 20%;

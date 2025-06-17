@@ -1748,6 +1748,7 @@ body {
     margin-left: 0;
     width: 91%;
     gap: 10px;
+    padding: 10px;
   }
   .parent {
     width: 95%;
@@ -2013,10 +2014,7 @@ body {
   top: 10%;
 }
 
-.email i{
-  left: 4.5%;
-  top: 64%
-}
+
 .online{
   height: 60%;
   align-items: center;
@@ -2103,7 +2101,7 @@ body {
   left: 10%;
 }
 .email i{
-  top: 68%;
+  top: 71%;
   left: 5%;
 }
 .carticon{

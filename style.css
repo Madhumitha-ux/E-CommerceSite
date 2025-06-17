@@ -1750,7 +1750,7 @@ body {
   }
   .section {
     margin-left: 0;
-    width: 91%;
+    width: 100%;
     gap: 10px;
     padding: 10px;
   }
@@ -2052,10 +2052,11 @@ body {
   font-weight: 600;
 }
 .raw1{
-  width: 30%;
+  width: 35%;
 }
 .nestimg{
   padding: 0;
+  width: 100%;
 }
 
 .online{
@@ -2093,7 +2094,7 @@ body {
 
 }
 .deal{
-  height: 175vh;
+  height: 190vh;
   overflow: hidden;
 }
 .gridbox{
@@ -2143,6 +2144,12 @@ body {
 .back1{
   width: 100%;
   height: 100%;
+}
+.wish {
+  font-size: X-LARGE;
+  width: 40px;
+  display: flex;
+  gap: 5px;
 }
 .background{
   width: 100%;
@@ -2214,6 +2221,7 @@ body {
 }
 .timebox{
   padding: 7px;
+  width: auto;
 
 }
 .inputtype{

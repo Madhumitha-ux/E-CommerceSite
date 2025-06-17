@@ -1971,7 +1971,7 @@ body {
   font-weight: 500;
 }
 .nestbb img{
-  width: 80%;
+  width: 70%;
 }
 
 
@@ -1997,6 +1997,7 @@ body {
   height: auto;
   display: flex;
   flex-direction: column;
+  margin-left: 1%;
 }
 .selling{
   width: 80%;
@@ -2010,7 +2011,7 @@ body {
 }
 .background2{
   width: 60%;
-  bottom: 8%;
+  bottom: 10%;
   left: 37%;
 }
 .inputtype p {
@@ -2039,7 +2040,7 @@ body {
 }
 .inputtype h1{
   font-size:x-large;
-  font-weight: bold;
+  font-weight: 600;
   
 }
 .bar h3{
@@ -2078,7 +2079,35 @@ body {
   margin-left: 0;
 }
 .burger{
+  font-size: large;
+  font-weight: 400;
+}
+.heading h1{
   font-size: x-large;
+  font-weight: bolder;
+
+}
+.gridboxes h1{
+  font-size: x-large;
+  font-weight: bolder;
+
+}
+.deal{
+  height: 175vh;
+  overflow: hidden;
+}
+.gridbox{
+  height: 100%;
+}
+.grid1{
+  overflow: hidden;
+}
+.postion{
+  overflow: hidden;
+}
+.heading h2{  
+    font-size: small; 
+    font-weight: 400;
 }
 .install1{
   width: 100%;
@@ -2091,6 +2120,10 @@ body {
 }
 .company{
   width: 100%;
+}
+.wish img{
+  width: 40%;
+ 
 }
 .net{
   display: none;
@@ -2113,7 +2146,7 @@ body {
 }
 .background{
   width: 100%;
-  height: 50%;
+  height: 38%;
   overflow: hidden;
   margin-left: 0;
   margin-top: 21%;
@@ -2126,10 +2159,7 @@ body {
   justify-content: center;
   
 }
-.top{
-  margin-left: 5%;
 
-}
 .div1{
   width: 92%;
 }
@@ -2143,16 +2173,16 @@ body {
 }
 .email2 p{
   width: 30%;
-  top: 70%;
+  top: 55%;
   left: 56%;
-  height: 15%;
+  height: 17%;
 }
 .email1 input{
-  top: 70%;
+  top: 55%;
   left: 10%;
 }
 .email i{
-  top: 73%;
+  top: 58%;
   left: 5%;
 }
 .carticon{
@@ -2164,6 +2194,18 @@ body {
 
 
 }
+.everyday h3 {
+  font-weight: 600;
+
+}
+.pos h3 {
+  font-weight: 600;
+
+}
+.online{
+  margin-top: 0;
+}
+
 .aboutus{
   width: 100%;
 }
@@ -2200,5 +2242,11 @@ body {
 .range{
   align-items: center;
   margin-left: 0;
+}
+.contact{
+  margin-left: 2%;
+}
+.address img{
+  width: 10%;
 }
 }

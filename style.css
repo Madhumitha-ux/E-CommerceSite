@@ -1830,7 +1830,7 @@ body {
     width: 50%;
   }
   .background2 img{
-    width:76% ;
+    width:100% ;
   }
   .flex{
     height: auto;
@@ -1997,6 +1997,7 @@ body {
 .background2{
   width: 60%;
   bottom: 8%;
+  left: 37%;
 }
 .email1 input{
   top: 74%;
@@ -2082,16 +2083,16 @@ body {
 }
 .email2 p{
   width: 30%;
-  top: 57%;
+  top: 70%;
   left: 56%;
   height: 13%;
 }
 .email1 input{
-  top: 57%;
+  top: 70%;
   left: 10%;
 }
 .email i{
-  top: 59%;
+  top: 73%;
   left: 5%;
 }
 .carticon{

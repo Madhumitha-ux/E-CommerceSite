@@ -1999,9 +1999,17 @@ body {
   bottom: 8%;
   left: 37%;
 }
+.inputtype p {
+    font-size: small;
+    font-weight: 200;
+    margin-top: 4%;
+}
 .email1 input{
   top: 74%;
   right: 5%;
+}
+.inputtype{
+  top: 10%;
 }
 
 .email i{

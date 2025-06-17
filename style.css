@@ -2094,7 +2094,7 @@ body {
 
 }
 .deal{
-  height: 190vh;
+  height: 194vh;
   overflow: hidden;
 }
 .gridbox{
@@ -2153,7 +2153,7 @@ body {
 }
 .background{
   width: 100%;
-  height: 38%;
+  height: 40%;
   overflow: hidden;
   margin-left: 0;
   margin-top: 21%;
@@ -2182,7 +2182,7 @@ body {
   width: 30%;
   top: 55%;
   left: 56%;
-  height: 17%;
+  height: 20%;
 }
 .email1 input{
   top: 55%;
@@ -2197,7 +2197,7 @@ body {
 
 }
 .carticon1{
-  width: 33%;
+  width: 35%;
 
 
 }

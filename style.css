@@ -1965,6 +1965,13 @@ body {
 .gridimages{
   display: none;
 }
+.heading{
+  font-size: x-large;
+  font-weight: 500;
+}
+.nestbb img{
+  width: 80%;
+}
 
 
 .gridbox3 {
@@ -2039,6 +2046,7 @@ body {
 
 .install1{
   width: 100%;
+  height: auto;
 }
 .install1 img{
   display: flex;
@@ -2053,11 +2061,11 @@ body {
 }
 .web p{
   width: 24%;
-  height: 35%;
+  height: 40%;
 }
 .web input{
   width: 37%;
-  height: 35%;
+  height: 40%;
 }
 .offer img{
   width: 100%;
@@ -2105,7 +2113,7 @@ body {
   left: 10%;
 }
 .email i{
-  top: 72%;
+  top: 73%;
   left: 5%;
 }
 .carticon{

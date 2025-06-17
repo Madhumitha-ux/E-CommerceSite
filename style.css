@@ -1863,7 +1863,8 @@ body {
     justify-content: center;
   }
   .shop{
-    height: 10%;}
+    height: 10%;
+  }
 
     .div1 img{
       height: 160%;
@@ -1934,7 +1935,7 @@ body {
   margin-left: 0;
 }
 .shop{
-  width: 40%;
+  width: 35%;
   top: 45%;
   display: flex;
 }
@@ -2005,7 +2006,7 @@ body {
     margin-top: 4%;
 }
 .email1 input{
-  top: 74%;
+  top: 64%;
   right: 5%;
 }
 .inputtype{
@@ -2014,7 +2015,7 @@ body {
 
 .email i{
   left: 4.5%;
-  top: 76%
+  top: 64%
 }
 .online{
   height: 60%;
@@ -2093,14 +2094,14 @@ body {
   width: 30%;
   top: 70%;
   left: 56%;
-  height: 13%;
+  height: 14%;
 }
 .email1 input{
   top: 70%;
   left: 10%;
 }
 .email i{
-  top: 73%;
+  top: 67%;
   left: 5%;
 }
 .carticon{
@@ -2108,7 +2109,7 @@ body {
 
 }
 .carticon1{
-  width: 31%;
+  width: 33%;
 
 }
 .timebox{

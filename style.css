@@ -2051,11 +2051,11 @@ body {
 }
 .web p{
   width: 24%;
-  height: 30%;
+  height: 35%;
 }
 .web input{
   width: 37%;
-  height: 30%;
+  height: 35%;
 }
 .offer img{
   width: 100%;
@@ -2103,7 +2103,7 @@ body {
   left: 10%;
 }
 .email i{
-  top: 67%;
+  top: 68%;
   left: 5%;
 }
 .carticon{

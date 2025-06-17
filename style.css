@@ -1754,6 +1754,7 @@ body {
     gap: 10px;
     padding: 10px;
   }
+  
   .parent {
     width: 95%;
     height: 100%;
@@ -2024,12 +2025,45 @@ body {
 .inputtype{
   top: 10%;
 }
-
+.offer{
+  margin-top: 0;
+}
+.selling h1{
+  font-size: x-large;
+  font-weight: bold;
+  
+}.trending h1{
+  font-size: x-large;
+  font-weight: bold;
+  
+}
+.inputtype h1{
+  font-size:x-large;
+  font-weight: bold;
+  
+}
+.bar h3{
+  font-size:large;
+  
+  
+}
+.day h4{
+  font-weight: 600;
+}
+.raw1{
+  width: 30%;
+}
+.nestimg{
+  padding: 0;
+}
 
 .online{
   height: 60%;
   align-items: center;
   justify-content: center;
+}
+.greyBorder{
+  height: 1.2px;
 }
 .greenBorder1{
   width: 79%;
@@ -2043,7 +2077,9 @@ body {
   grid-template-columns: repeat(2,0.5fr);
   margin-left: 0;
 }
-
+.burger{
+  font-size: x-large;
+}
 .install1{
   width: 100%;
   height: auto;
@@ -2078,12 +2114,12 @@ body {
 .background{
   width: 100%;
   height: 50%;
- 
+  overflow: hidden;
   margin-left: 0;
   margin-top: 21%;
 }
 .juice{
-  margin-top: 39%;
+  
   width: 100%;
   display: flex;
   align-items: center;
@@ -2093,6 +2129,9 @@ body {
 .top{
   margin-left: 5%;
 
+}
+.div1{
+  width: 92%;
 }
   
 .id1{
@@ -2123,6 +2162,13 @@ body {
 .carticon1{
   width: 33%;
 
+
+}
+.aboutus{
+  width: 100%;
+}
+.address img{
+  width: 10%;
 }
 .timebox{
   padding: 7px;

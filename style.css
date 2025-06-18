@@ -47,6 +47,7 @@ body {
   justify-content: space-between;
   position: fixed;
   top: 0;
+  z-index: 1;
 }
 .nest {
   width: 300px;
@@ -483,7 +484,7 @@ body {
 }
 .subdiv {
   width: 100%;
-  height: 40%;
+  height: 50%;
   padding: 20px;
   border: 1px solid #ececec;
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.05);
@@ -541,12 +542,11 @@ body {
 .range {
   margin-top: 20%;
   /* background-color: aqua; */
-  width: 90%;
-  height: 50%;
-
-  /* padding: 20px; */
+  width: 97%;
+  height: 47%;
+  padding: 10px;
   margin-left: 5px;
-
+  overflow: hidden;
   margin-top: 10%;
   border: 1px solid #ececec;
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.05);
@@ -554,8 +554,7 @@ body {
 }
 .ratio {
   width: 100%;
-  height: 50%;
-  margin-top: 30px;
+  height: 100%;
   padding: 10px;
   /* border: 1px solid #ececec;
   box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.05);
@@ -570,15 +569,15 @@ body {
 }
 .range1 {
   display: flex;
-  gap: 39%;
+  gap: 35%;
 }
 .range1 span {
   color: #29a56c;
 }
 
 .raw {
-  width: 20%;
-  height: 50%;
+  width: 31%;
+  height: 27%;
   /* background-color: #3bb77e; */
   display: flex;
   flex-direction: column;
@@ -589,8 +588,8 @@ body {
 }
 .raw1 {
   margin-top: 10%;
-  width: 20%;
-  height: 50%;
+  width: 100%;
+  height: 35%;
   /*background-color: #3bb77e; */
   display: flex;
   flex-direction: column;
@@ -603,7 +602,7 @@ body {
 }
 .filter {
   width: 95%;
-  height: 30%;
+  height: 14%;
   /* background-color: #fdc040; */
   display: flex;
   margin-top: 5%;
@@ -613,7 +612,7 @@ body {
 }
 
 .f1 {
-  width: 60%;
+  width: 80%;
   height: 40%;
 
   background-color: #29a56c;
@@ -1360,12 +1359,25 @@ body {
 }
 .greyBorder {
   width: 100%;
-  height:-0.8px;
+  height:1px;
   background-color: rgb(219, 214, 214);
   border-radius: 20px;
   margin-top: 15px;
 }
 .greenBorder {
+  width: 30%;
+  height: 10px;
+  background-color: #bce3c9;
+  border-radius: 20px;
+}
+.grey{
+  width: 100%;
+  height:2px;
+  background-color: rgb(219, 214, 214);
+  border-radius: 20px;
+  margin-top: 15px;
+}
+.green {
   width: 30%;
   height: 3px;
   background-color: #bce3c9;
